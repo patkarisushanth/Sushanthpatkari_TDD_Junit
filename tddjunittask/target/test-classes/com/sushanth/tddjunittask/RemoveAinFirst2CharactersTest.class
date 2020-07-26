@@ -1,0 +1,25 @@
+Êþº¾   4 C
+      java/lang/Object <init> ()V  1com/sushanth/tddjunittask/RemoveAinFirst2Characters
+  	      5com/sushanth/tddjunittask/RemoveAinFirst2CharactersTest removeFirst2Characters 3Lcom/sushanth/tddjunittask/RemoveAinFirst2Characters;   
+     remove &(Ljava/lang/String;)Ljava/lang/String;
+       org/junit/jupiter/api/Assertions assertEquals '(Ljava/lang/Object;Ljava/lang/Object;)V  A  G ! AG # AA % BBBA ' AABBBA ) WQAAGE + S - SA / SSS Code LineNumberTable LocalVariableTable this 7Lcom/sushanth/tddjunittask/RemoveAinFirst2CharactersTest; setup RuntimeVisibleAnnotations "Lorg/junit/jupiter/api/BeforeEach; testEmptyString Lorg/junit/jupiter/api/Test; test1A test1AWithOthers test2As test2AsWithOthers !testStringWithANotInFirstTwoChars test2CharsWithOneA testStringWithNoA 
+SourceFile "RemoveAinFirst2CharactersTest.java              
+      0   /     *· ±    1        2        3 4     5   0   :     *» Y· 	µ 
+±    1   
+       2        3 4   6     7     8   0   =     *´ 
+¶ ¸ ±    1   
+       2        3 4   6     9     :   0   =     *´ 
+¶ ¸ ±    1   
+       ! 2        3 4   6     9     ;   0   =     *´ 
+ ¶ ¸ ±    1   
+    $  % 2        3 4   6     9     <   0   =     *´ 
+"¶ ¸ ±    1   
+    (  ) 2        3 4   6     9     =   0   =     $*´ 
+&¶ ¸ ±    1   
+    ,  - 2        3 4   6     9     >   0   =     (*´ 
+(¶ ¸ ±    1   
+    0  1 2        3 4   6     9     ?   0   =     **´ 
+,¶ ¸ ±    1   
+    4  5 2        3 4   6     9     @   0   =     .*´ 
+.¶ ¸ ±    1   
+    8  9 2        3 4   6     9    A    B

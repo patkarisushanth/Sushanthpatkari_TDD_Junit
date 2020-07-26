@@ -1,0 +1,16 @@
+Êþº¾   4 4
+      java/lang/Object <init> ()V   
+ 
+     java/lang/String length ()I
+ 
+    charAt (I)C  java/lang/StringBuilder
+  
+     append -(Ljava/lang/String;)Ljava/lang/StringBuilder;
+     (C)Ljava/lang/StringBuilder;
+      toString ()Ljava/lang/String;
+ 
+ " # $ 	substring (I)Ljava/lang/String; & 1com/sushanth/tddjunittask/RemoveAinFirst2Characters Code LineNumberTable LocalVariableTable this 3Lcom/sushanth/tddjunittask/RemoveAinFirst2Characters; remove &(Ljava/lang/String;)Ljava/lang/String; string Ljava/lang/String; result StackMapTable 
+SourceFile RemoveAinFirst2Characters.java ! %           '   /     *· ±    (        )        * +    , -  '   Ü     nM+¶ 	¡ d+¶ AŸ » Y· ,¶ +¶ ¶ ¶ M+¶ 	¡ ;+¶ AŸ » Y· ,¶ +¶ ¶ ¶ M» Y· ,¶ +¶ !¶ ¶ M,°    (   & 	       	  
+ ,  4  >  U  l  )        n * +     n . /   k 0 /  1   
+ ü , 
+(  2    3
